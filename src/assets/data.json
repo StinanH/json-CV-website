@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "name" : "My Minimal API",
+            "description" : "Simple Webb-API with a REST-architecture that allows for external services annd applikations to get and add data to the application"
+        },
+        {
+            "name" : "Music API",
+            "description": "Group project to practice setting up REST APIs calling external APIs using a console client. With MsTests for unit tests. Worked mainly on the communication with the SpotifyAPI"
+        },
+        {
+            "name" : "My First database",
+            "description" : "Simple consoleapplication for testing ways of fetching and presenting data from the northwind database using entity framework and SQL."
+        }
+    ],
+
+    "education": [
+        {   "title" : "Fullstack .NET",
+            "school" : "Chas Academy, Stockholm",
+            "period" : "Fall 2023 - ongoing",
+            "description" : "Education covering frontenddevelopment with JavaScript and well known JavaScript-Frameworks aswell as backendapplications and SQL databases. Throughtout the education i've been working with C# in combination with all these."
+        },
+        {
+            "title" : "Gamedesign and Scripting",
+            "school" : "Södertörns högskola, Stockholm",
+            "period" : "Fall 2016 - Spring 2019",
+            "description" : "Program focusing on gamecreating using C# in Unity Engine. I chose to focus on programming and scripting instead of leveldesign. We developed digital games such as hearthstone replicas, smaller rpgs and boardgames. We also had solo project such as building chinese checkers with BOT opponents."
+        }
+       ],
+
+    "experience": [
+        {
+            "title" : "Technician Optical Systems",
+            "workplace" : "FLIR Systems AB, Stockholm",
+            "period" : "Mars 2020 - ongoing",
+            "description" : "Responsible for planning and technical oversight at optics assembly team in production. Working with my team to improve efficiency, quality and possible improvements in production."
+        },
+        {
+            "title" : "Boendestödjare",
+            "workplace" : "Bolindervägen Gruppbostad, Kallhäll",
+            "period" : "Dec 2015 - Maj 2019",
+            "description" : "LSS-Groupliving where i was a housing supporter and personal assistant working day and nightshifts. Helping with medication, daily tasks, motivational work and documentation and being social support during activitys."
+            
+        }
+        ]
+}
