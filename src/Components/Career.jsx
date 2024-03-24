@@ -1,5 +1,4 @@
 import Info from "../assets/data.json"
-import Educations from "./Educations"
 
 export default function Career() {
 
